@@ -1,0 +1,3 @@
+/Users/shong/CLionProjects/TaskTracker/cmake-build-debug/CMakeFiles/TaskTracker.dir
+/Users/shong/CLionProjects/TaskTracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shong/CLionProjects/TaskTracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
