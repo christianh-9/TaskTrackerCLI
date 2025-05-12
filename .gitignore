@@ -1,0 +1,25 @@
+# CLion project files
+.idea/
+
+# CMake build directories
+cmake-build-*/
+
+# Build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+
+# macOS system files
+.DS_Store
+
+# Backup and temporary files
+*~
+*.log
