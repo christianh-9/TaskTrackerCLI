@@ -23,3 +23,6 @@ Makefile
 # Backup and temporary files
 *~
 *.log
+
+task-cli
+tasks.json
